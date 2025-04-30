@@ -1,6 +1,6 @@
 # WebDevOpen-Fellowship
 
-This repo just contains this single ReadMe file, which in turn contains links to all my assignments from the Web Developer Fellowship by OpenBootcamp at Web Dev Open
+This repo just contains this single ReadMe file, which in turn contains links to all my assignments from the Web Developer Fellowship by OpenBootcamp at Web Dev Open.
 
 **Week 1**
 https://github.com/Clever-Niwagaba/lab1-js-basic-algorithms.git
